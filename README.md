@@ -6,3 +6,6 @@ Homework#2 simple calculator 구현
 
 ## 2023-05-09
 GitLens 설치 및 Git GUI 테스트
+
+## 2023-05-16
+Homework#4, figure 모듈 구현
